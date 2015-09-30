@@ -1,0 +1,17 @@
+/* Custom CSS */
+html {
+  background: #000;
+}
+.wrapper {
+  background: #29545a;
+}
+
+.left-information {
+  background: #29545a;
+  color: #fff;
+}
+
+.right-information {
+  color: #29545a;
+  background: #fff;
+}

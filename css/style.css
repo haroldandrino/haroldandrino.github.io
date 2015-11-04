@@ -1,17 +1,13 @@
-/* Custom CSS */
-html {
-  background: #000;
+
+.tagline {
+	background: #017aaf;
+	color: #fff;
+	padding: 10px;
+	margin-bottom: 20px;
 }
 .wrapper {
-  background: #29545a;
+	border-bottom: 40px solid #017aaf;
 }
-
-.left-information {
-  background: #29545a;
-  color: #fff;
-}
-
-.right-information {
-  color: #29545a;
-  background: #fff;
+.decolor {
+	color: #ddd;
 }
